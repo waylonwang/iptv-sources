@@ -153,4 +153,4 @@
 | 147 | 金鹰卡通 | IPv4 直链 | <http://101.66.198.152:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 148 | 金鹰卡通 | IPv4 直链 | <http://101.66.198.254:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Mon Oct 27 2025 06:35:38 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Oct 27 2025 08:29:01 GMT+0000 (Coordinated Universal Time)**
