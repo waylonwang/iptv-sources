@@ -124,4 +124,4 @@
 | 118 | 金鹰卡通 | IPv4 直链 | <http://101.66.195.81:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 119 | 金鹰卡通 | IPv4 直链 | <http://101.66.195.235:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Tue Oct 27 2026 21:54:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Oct 28 2026 01:00:52 GMT+0000 (Coordinated Universal Time)**
